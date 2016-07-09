@@ -1,7 +1,7 @@
 name: Kamin space
 favicon: null
-layout_spectrum: 0.99718
-typography_spectrum: 0.45741
+layout_spectrum: 1
+typography_spectrum: 0.6731
 cta:
   domain: null
   bucket: null
@@ -22,7 +22,7 @@ color:
     - '#41525b'
     - '#c4b8a8'
   brandStrength: 0.5
-  lightness: 0.7320567492861301
+  lightness: 0.75
   saturation: 0.019873675890266895
   rhythmicContrast: 0.2327822654042393
 purpose: []
