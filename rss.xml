@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Kamin space]]></title>
+        <description><![CDATA[Kamin space]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 09 Jul 2016 19:27:04 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="http://www.forfur.com/img/I52/l_5118_1441683192309125455.jpg">]]></description>
+            <link>undefined52ddc1dc-06a5-45d8-9afa-cbc5a56a0598/index.html</link>
+            <guid isPermaLink="false">52ddc1dc-06a5-45d8-9afa-cbc5a56a0598</guid>
+            <pubDate>Sat, 09 Jul 2016 19:26:56 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
